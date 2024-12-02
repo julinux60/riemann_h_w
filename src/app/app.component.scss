@@ -1,0 +1,29 @@
+nav{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+    border-bottom: 2px #ffffff7a solid;
+}
+
+.buttonStart{
+    margin-right: 20px;
+    color: #ffffff;
+}
+
+.buttons-center{
+    margin: 0px 20px;
+    color: #ffffffba;
+}
+
+.logo{
+    font-weight: bold;
+    font-size: 1.5em;
+    margin-left: 20px;
+}
+
+a{
+    text-decoration: none;
+}
